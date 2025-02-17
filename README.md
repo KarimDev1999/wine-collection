@@ -19,10 +19,12 @@ Run migration:
     dotnet ef database update --startup-project ./Wine.API --project ./Wine.Infra
 
 Run the application:
-`dotnet run`
 
+`cd ./Wine.API`
+-> `dotnet run`
+
+    {serverUrl}/swagger/index.html
     API Endpoints
-
     Wine Endpoints
     GET	/api/wines	Get all wines
     GET	/api/wines/{id}	Get a wine by ID
