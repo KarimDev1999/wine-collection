@@ -1,4 +1,4 @@
-# **Wine Collection API (Assesment task - 1 hour) **
+# Wine Collection API (Assessment task - 1 hour) 
 
 ##### **Simple ASP.NET Core Web API for managing a collection of wines**
 
